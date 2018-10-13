@@ -1,5 +1,12 @@
-# MECH
-Repository dedicated to;
-* Retrofitting 3D Printers into Mechanical Testing Machines
-* 3D Printed Grippers
-* Mechanical Properties of 3D Printed Materials and Composites
+# SOFTWARE
+The software directory (and associated subdirectories) encompass;
+* Motor Control
+* Motor Management
+* Testing Profiles
+* Sensor Interfacing
+* Data Collection
+* Data Analysis
+
+
+### References
+1. [Adafruit Motor HAT](https://www.adafruit.com/product/2348)
