@@ -1,7 +1,5 @@
-# CONTROL
-Machine Control has been achieved using the following platforms;
-* OctoPrint
-* Custom
+# OctoPrint
+
 
 
 ### References
