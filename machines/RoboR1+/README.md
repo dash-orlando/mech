@@ -9,3 +9,4 @@ Features of interest;
 
 ### References
 1. [Robo R1+](https://robo3d.com/products/r1-plus-3d-printer)
+2. [Robo R1+ RAMPS Board Wiring Diagram](https://help.robo3d.com/hc/en-us/articles/115002569971-R1-RAMPS-Board-Wiring-Diagram)
