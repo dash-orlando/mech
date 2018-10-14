@@ -1,12 +1,8 @@
-# SOFTWARE
-The software directory (and associated subdirectories) encompass;
-* Motor Control
-* Motor Management
-* Testing Profiles
-* Sensor Interfacing
-* Data Collection
-* Data Analysis
+# CONTROL
+Machine Control has been achieved using the following platforms;
+* OctoPrint
+* Custom
 
 
 ### References
-1. [Adafruit Motor HAT](https://www.adafruit.com/product/2348)
+1. [OctoPrint - The snappy web interface for your 3D printer](https://octoprint.org/)
